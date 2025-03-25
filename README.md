@@ -19,7 +19,6 @@ This is to allow for more context in the image and to allow for the model to lea
 
 The validation error is ~ 7.15% (normalized using the maximum wind generation)
 
-- wandb [link](https://wandb.ai/openclimatefix/india/runs/xdlew7ib)
 - hugging face [link](https://huggingface.co/openclimatefix/windnet_india)
 
 The weather variables are currently
